@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+button.slick-prev.text-black.bg-amber-600.slick-arrow
+
+ {
+    background-color: red;
+    height: 550px;
+    width: 40px;
+     margin-left: 50px;
+}
+
+button.slick-next.text-black.bg-amber-600.slick-arrow
+
+ {
+    background-color: red;
+    height: 550px;
+    width: 40px;
+    z-index: 10;
+   
+}
